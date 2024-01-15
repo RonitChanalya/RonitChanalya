@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RonitChanalya
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning various types of ML models and doing project work on the same
+- 💞️ I’m looking to collaborate on ML open source and python open source projects
+- 📫 How to reach me: My linked in ->> Ronit Chanalya, Instagram ->> @ronit_chanalya
