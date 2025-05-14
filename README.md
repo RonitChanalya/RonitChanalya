@@ -16,4 +16,4 @@
 <a href="https://linkedin.com/in/ronit-chanalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit chanalya" height="30" width="40" /></a>
 </p>
 
-![MasterHead](https://i.pinimg.com/originals/6d/d9/73/6dd973abd55285094a615c97f5b04efe.gif)
+## ![MasterHead](https://i.pinimg.com/originals/6d/d9/73/6dd973abd55285094a615c97f5b04efe.gif)
