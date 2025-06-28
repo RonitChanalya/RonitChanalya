@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9lZjA4cjR3OGlnOTdhazhzMDd0c292OXlidnhnNzJydHMyeHUyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 
 
-- 🔭 I’m currently working on **My own Socail Media app**
+- 🔭 I’m currently working on **My own Social Media app**
 
 - 🌱 I’m currently learning **various Machine Learning as well as development technologies**
 
